@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/Paarit/Personal-Portfolio-Page--freeCodeCamp-5-#readme",
   "dependencies": {
-    "browserify": "^17.0.0",
     "lodash": "^4.17.21"
   }
 }
